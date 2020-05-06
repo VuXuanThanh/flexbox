@@ -1,0 +1,28 @@
+.boxx{
+    background-color: blueviolet;
+     width: 100px;
+     height: 100px;
+     padding: 5px;
+     border: solid 4px;
+     box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    height: 600px;
+    /* background-image: 
+    url(https://i.ytimg.com/vi/vh2szgoWAI0/maxresdefault.jpg);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    
+    background-position: center; */
+    background: url(https://i.ytimg.com/vi/vh2szgoWAI0/maxresdefault.jpg) no-repeat center / 400px;
+}
+.image2{
+    width: calc(50% +20px  );
+    height: 100vh;
+    background: rgb(109,77, 77);
+}
+h1:active{
+    color: red;
+}
